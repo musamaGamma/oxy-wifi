@@ -112,7 +112,7 @@ const Login = () => {
           id="phone"
           {...register("phone")}
           name="phone"
-          placeholder="+249xxxxxxxxx"
+          placeholder="249xxxxxxxxx"
           autoComplete="off"
           className={`shadow border text-gray-700 rounded 
            py-2 px-3 mb-3 focus:outline-none focus:shadow-none
